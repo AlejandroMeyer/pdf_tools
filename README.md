@@ -39,6 +39,8 @@
 - **Lightweight and easy to use**: No complex installations required.  
 - **Fast processing**: Works efficiently with local files.  
 
+## Next stepts
+- **Convert PDF to Word**
 ---
 
 Feel free to contribute or report any issues!
