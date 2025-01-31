@@ -41,6 +41,13 @@
 
 ## Next stepts
 - **Convert PDF to Word**
+
+## Installation  
+
+1. Clone the repository:  
+   ```bash
+   [git clone https://github.com/AlejandroMeyer/pdf_tools.git]
+
 ---
 
 Feel free to contribute or report any issues!
